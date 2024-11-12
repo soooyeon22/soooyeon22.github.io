@@ -115,8 +115,14 @@ comments:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    <script src="https://utteranc.es/client.js"
+        repo="soooyeon22/soooyeon22.github.io"
+        issue-term="pathname"
+        label="blog commen"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
