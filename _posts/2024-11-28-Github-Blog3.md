@@ -29,14 +29,12 @@ Google Search Console은 말 그대로 google에서 검색을 하였을 때, 나
 - [Google Search Console](https://search.google.com/search-console) 사이트에 접속하세요.
 - Google계정으로 로그인 후 “시작하기” 버튼을 누르세요.
 
-https://github.com/user-attachments/assets/57ab3411-c1a6-4fd4-8e35-57252142f8b6
-
 ### 1-2.  사이트 등록
 
 - 접속하시면 이렇게 화면이 보입니다. [URL 접두어]를 선택하고 자신의 블로그 주소를 입력하세요.  (예시:  `https://suzy.github.io`)
 - 도메인이 있으신 분들은 DNS 인증만 진행하면 된다고 하니, 조금 더 빠르게 가능하실 것 같습니다. 일단 저는 도메인이 없기 때문에 우측의 [URL 접두어]를 사용 할 것입니다.
 
-img(도메인 선택 이미지)
+https://github.com/user-attachments/assets/57ab3411-c1a6-4fd4-8e35-57252142f8b6
 
 ## Step 2. 소유권 확인(중요해요!)
 
