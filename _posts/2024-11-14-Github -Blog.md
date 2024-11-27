@@ -1,6 +1,5 @@
 ---
-title: GitHub를 이용한 Blog만들기 -1
-		(Chirpy Theme)
+title: GitHub를 이용한 Blog만들기 -1 (Chirpy Theme)
 author: soooyeon22
 date: 2024-11-14 11:53:00 +0900
 categories: [Github, GitHub blog]
