@@ -30,7 +30,7 @@ Github page를 이용해  Jekyll 기반 Github blog를 만들어 보겠습니다
 - Public 체크해 주세요.
 - Add a REAME file 체크해 주세요.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a200514b-a908-45af-aa14-8d2a30883894/fd510da2-6108-4966-ba30-95ac0bf96628/image.png)
+![스크린샷 2024-11-14 224749](https://github.com/user-attachments/assets/8ee57a4a-9d91-4d38-a530-1fa5d317c450)
 
 ### Step 1-2. Github Page 설정
 
@@ -49,11 +49,12 @@ Github page를 이용해  Jekyll 기반 Github blog를 만들어 보겠습니다
     
 - VS Code 열기 → F1 키 입력 → git clone 검색 → Git: Clone 선택하세요.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a200514b-a908-45af-aa14-8d2a30883894/48683ddd-05c0-4387-a210-904d5fb23f33/image.png)
+![스크린샷 2024-11-14 234259](https://github.com/user-attachments/assets/bf1878ed-19d9-4650-91ca-f6b409995c5a)
 
 - 리포지토리 주소 입력 → 클론할 위치 선택하세요.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a200514b-a908-45af-aa14-8d2a30883894/bf3ca882-aa59-4903-a72a-854f012702fa/image.png)
+![스크린샷 2024-11-14 234359](https://github.com/user-attachments/assets/ca6ab045-7395-4b36-93e9-d171350d2f81)
+
 
 
 - 이 때, 한글이 포함된 경로를 선택하지 않도록 주의하세요.
@@ -74,7 +75,8 @@ Github page를 이용해  Jekyll 기반 Github blog를 만들어 보겠습니다
 - 좌측 **Source Control** 메뉴 선택하세요.
 - + 버튼을 클릭하여 변경사항 추가하세요.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a200514b-a908-45af-aa14-8d2a30883894/bbe05930-e56a-4431-adaa-28af12f411ae/image.png)
+![스크린샷 2024-11-14 233955](https://github.com/user-attachments/assets/92475203-b87a-4950-8d5c-24a38807ba98)
+
 
 - 커밋 메시지 입력, 커밋 & 푸시하세요.
 - 사이트 반영 확인하세요. (예시:  `https://suzy.github.io`)
