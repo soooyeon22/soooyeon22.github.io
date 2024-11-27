@@ -49,7 +49,7 @@ Github page를 이용해  Jekyll 기반 Github blog를 만들어 보겠습니다
     
 - VS Code 열기 → F1 키 입력 → git clone 검색 → Git: Clone 선택하세요.
 
-![스크린샷 2024-11-14 234259](https://github.com/user-attachments/assets/bf1878ed-19d9-4650-91ca-f6b409995c5a)
+![images](https://github.com/user-attachments/assets/bf1878ed-19d9-4650-91ca-f6b409995c5a)
 
 - 리포지토리 주소 입력 → 클론할 위치 선택하세요.
 
