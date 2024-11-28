@@ -1,4 +1,4 @@
----
+`---
 title: GitHub를 이용한 Blog만들기 -1 (Chirpy Theme)
 author: soooyeon22
 date: 2024-11-14 11:53:00 +0900
@@ -30,7 +30,7 @@ Github page를 이용해  Jekyll 기반 Github blog를 만들어 보겠습니다
 - Public 체크해 주세요.
 - Add a REAME file 체크해 주세요.
 
-![img1](https://github.com/soooyeon22/soooyeon22.github.io/blob/main/assets/img/favicons/img.png)
+![img1](https://soooyeon22.github.io/assets/img/favicons/img.png)
 
 ### Step 1-2. Github Page 설정
 
@@ -191,4 +191,4 @@ github:
 - 사이트 반영 확인하세요. (예시: `https://karina.github.io`)
 
 [https://jekyllthemes.io/free]: https://jekyllthemes.io/free
-[https://github.com/topics/jekyll-theme]: https://github.com/topics/jekyll-theme
+[https://github.com/topics/jekyll-theme]: https://github.com/topics/jekyll-theme`
