@@ -30,7 +30,7 @@ Github page를 이용해  Jekyll 기반 Github blog를 만들어 보겠습니다
 - Public 체크해 주세요.
 - Add a REAME file 체크해 주세요.
 
-![img](C:\SW\soooyeon22.github.io\assets\img\favicons\스크린샷 2024-11-14 224749.png)
+![img](https://github.com/soooyeon22/soooyeon22.github.io/blob/main/assets/img/favicons/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-11-14%20224749.png)
 
 ### Step 1-2. Github Page 설정
 
