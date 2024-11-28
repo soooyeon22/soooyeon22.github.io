@@ -8,7 +8,7 @@ tags: [blog,Github,]
 ---
 연관 포스팅
 
-[GitHub를 이용한 Blog만들기 -1](https://soooyeon22.github.io/posts/Github-Blog/) --> 
+- [GitHub를 이용한 Blog만들기 -1](https://soooyeon22.github.io/posts/Github-Blog/)
 
 ## step 0. 사전준비 사항
 
