@@ -8,7 +8,7 @@ tags: [blog,Github,]
 ---
 연관 포스팅
 
-<!--[GitHub를 이용한 Blog만들기 -1](https://soooyeon22.github.io/posts/Github-Blog/) --> 
+[GitHub를 이용한 Blog만들기 -1](https://soooyeon22.github.io/posts/Github-Blog/) --> 
 
 ## step 0. 사전준비 사항
 
@@ -80,7 +80,7 @@ webmaster_verifications:
   facebook: # fill in your Facebook verification cod
 ```
 
-- 추가한 후 커밋과 푸시를 합니다. 잘 모르시는 분들은 <!--[GitHub를 이용한 Blog만들기 -1](https://soooyeon22.github.io/posts/Github-Blog/)  을 참고해주세요.
+- 추가한 후 커밋과 푸시를 합니다. 잘 모르시는 분들은 [GitHub를 이용한 Blog만들기 -1](https://soooyeon22.github.io/posts/Github-Blog/)  을 참고해주세요.
 
 ### 2-3. 배포 완료 후 확인
 
