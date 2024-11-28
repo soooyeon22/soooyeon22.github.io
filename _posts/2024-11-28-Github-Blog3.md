@@ -34,7 +34,7 @@ Google Search Console은 말 그대로 google에서 검색을 하였을 때, 나
 - 접속하시면 이렇게 화면이 보입니다. [URL 접두어]를 선택하고 자신의 블로그 주소를 입력하세요.  (예시:  `https://suzy.github.io`)
 - 도메인이 있으신 분들은 DNS 인증만 진행하면 된다고 하니, 조금 더 빠르게 가능하실 것 같습니다. 일단 저는 도메인이 없기 때문에 우측의 [URL 접두어]를 사용 할 것입니다.
 
-![스크린샷 2024-11-28 012521](https://github.com/user-attachments/assets/a10f1df1-120d-4d5e-991a-442b8efde2de)
+![img5](https://soooyeon22.github.io/assets/img/favicons/img5.png)
 
 ## Step 2. 소유권 확인(중요해요!)
 
@@ -54,7 +54,7 @@ Google은 소유권을 확인하기 위해 여러가지 방법을 제공합니�
 
 - 다른 확인 방법 선택 → HTML 태그 선택→ 복사 (복사까지만 누르세요!!)
 
-![스크린샷 2024-11-28 014205](https://github.com/user-attachments/assets/774176c6-4599-4137-850f-aad701493a41)
+![img6](https://soooyeon22.github.io/assets/img/favicons/img6.png)
 
 
 ### 2-2. HTML 메타 태그 추가
@@ -104,12 +104,12 @@ webmaster_verifications:
 
 - `sitemap.xml` 파일의 존재를 확인 했다면 아까  [Google Search Console](https://search.google.com/search-console) 로 이동해 Sitemaps로 들어가 주세요.
 
-![스크린샷 2024-11-28 011557](https://github.com/user-attachments/assets/30b7a6ea-cb67-46df-9589-587cea9b79e1)
+![img7](https://soooyeon22.github.io/assets/img/favicons/img7.png)
 
 
 - Sitemaps 탭 → 새 사이트 맵 추가→ URL작성 → 제출
 
-![스크린샷 2024-11-28 011742](https://github.com/user-attachments/assets/46ec5b11-034a-4f12-b486-b670752303b8)
+![img8](https://soooyeon22.github.io/assets/img/favicons/img8.png)
 
 
 - ‘사이트 맵이 제출됨’ 이라는 문구가 뜨면 완료입니다.
@@ -118,7 +118,7 @@ webmaster_verifications:
 
 - Google에 검색
 
-![스크린샷 2024-11-28 011925](https://github.com/user-attachments/assets/36a44acf-b837-45dc-b3b2-b5cd8c336e45)
+![img9](https://soooyeon22.github.io/assets/img/favicons/img9.png)
 
 
 - 사이트 맵 제출 후 가져올 수 없음 이라는 문구가 뜨는 경우 화면상의 버그이고 실제로는 정상적으로 동작한다고 합니다. 단! 사이트 맵을 읽을 수 없음 이라고 나오면서 다른 메세지가 없어야 한다고 합니다. 시간이 지나면 검색 사이트에 뜨니 걱정하지 마세요.
