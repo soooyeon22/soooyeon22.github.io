@@ -189,7 +189,7 @@ github:
 
 - 모든 변경사항 커밋 및 푸시하세요.
 - 커밋 메시지 주의하세요.
-- 사이트 반영 확인하세요. (예시: `https://karina.github.io`)
+- 사이트 반영 확인하세요. (예시: `https://suzy.github.io`)
 
 [https://jekyllthemes.io/free]: https://jekyllthemes.io/free
 [https://github.com/topics/jekyll-theme]: https://github.com/topics/jekyll-theme`
