@@ -1,10 +1,12 @@
-`---
-title: GitHub를 이용한 Blog만들기 -1 (Chirpy Theme)
+---
+title: GitHub를 이용한 Blog만들기 -1
+       (Chirpy Theme)
 author: soooyeon22
 date: 2024-11-14 11:53:00 +0900
 categories: [Github]
-tags: [blog,Github]
+tags: [blog,Github,]
 ---
+
 ## Github blog(깃허브 블로그)란?
 
 Github에는 여러가지 파일이 업로드,저장이 이루어집니다. 그 중, 저장된 html파일 같은 웹 문서들을 Github에서 무료로 호스팅을 제공해주는 서비스가 존재합니다. 바로 **Github Page**입니다. 이 Github Page를 이용하여 Blog를 만든것이 Github Blog(깃허브 블로그, 깃블로그)입니다
