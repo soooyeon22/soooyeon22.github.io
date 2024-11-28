@@ -4,7 +4,7 @@ title: GitHub를 이용한 Blog만들기 -1
 author: soooyeon22
 date: 2024-11-14 11:53:00 +0900
 categories: [Github]
-tags: [blog,Github,]
+tags: [blog,Github]
 ---
 
 ## Github blog(깃허브 블로그)란?

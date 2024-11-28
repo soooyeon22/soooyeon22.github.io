@@ -4,7 +4,7 @@ title: GitHub를 이용한 Blog만들기 -3
 author: soooyeon22
 date: 2024-11-14 11:53:00 +0900
 categories: [Github]
-tags: [blog,Github,]
+tags: [blog,Github]
 ---
 연관 포스팅
 
@@ -54,7 +54,7 @@ Google은 소유권을 확인하기 위해 여러가지 방법을 제공합니�
 
 - 다른 확인 방법 선택 → HTML 태그 선택→ 복사 (복사까지만 누르세요!!)
 
-![img6](https://soooyeon22.github.io/assets/img/favicons/img6.png)
+![img7](https://soooyeon22.github.io/assets/img/favicons/img7.png)
 
 
 ### 2-2. HTML 메타 태그 추가
@@ -104,7 +104,7 @@ webmaster_verifications:
 
 - `sitemap.xml` 파일의 존재를 확인 했다면 아까  [Google Search Console](https://search.google.com/search-console) 로 이동해 Sitemaps로 들어가 주세요.
 
-![img7](https://soooyeon22.github.io/assets/img/favicons/img7.png)
+![img6](https://soooyeon22.github.io/assets/img/favicons/img6.png)
 
 
 - Sitemaps 탭 → 새 사이트 맵 추가→ URL작성 → 제출
