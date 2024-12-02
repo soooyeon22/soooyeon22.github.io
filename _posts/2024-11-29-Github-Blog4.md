@@ -22,7 +22,7 @@ tags: [pygame,Github]
 
 - 마우스를 사용해 버튼을 눌러 조작합니다.
 
-- 게임 설정
+# (게임 설정)
 
 - PvP 형식입니다.
 - Player는 2~4명입니다.
@@ -31,7 +31,7 @@ tags: [pygame,Github]
 - 도착 지점을 초과해야 골인됩니다.
 - 먼저 말이 4개 도착한 Player가 승리합니다.
 
-- 게임 룰
+# (게임 룰)
 
 - Player 1이 윷을 던집니다.
 - Player 1이 나온 윷 만큼 이동합니다.
@@ -43,11 +43,11 @@ tags: [pygame,Github]
 - 윷판의 각 모서리, 혹은 정중앙에 도착할 경우 꺾어 움직일 수 있습니다.
 - 윷판에 아군의 말이 존재할 경우 새로운 말을 꺼낼 건지, 본래 있던 말을 움직일 건지 선택할 수 있습니다.
 
-<시작화면>
+(시작화면)
 
 ![img11](https://soooyeon22.github.io/assets/img/favicons/img11.png)
 
-<게임 화면>
+(게임 화면)
 
 ![img12](https://soooyeon22.github.io/assets/img/favicons/img12.png)
 
