@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Github soooyeon22 blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Have a lucky and cheerful day! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://tistory1.daumcdn.net/tistory/5900884/attach/f4ac8e81ef3f457b9099402bc80e2ebe"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
