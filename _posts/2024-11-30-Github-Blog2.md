@@ -6,6 +6,12 @@ categories: [Projects]
 tags: [pygame,Github]
 ---
 
+연관 포스팅
+
+🔗[Pygame으로 윷놀이 게임 만들기](https://soooyeon22.github.io/posts/Github-Blog4/)
+
+---
+
 ## 애자일(Agile)이란 무엇인가?
 
 애자일(Agile)은 소프트웨어 개발 방식을 중심으로 한 유연하고 반복적인 프로젝트 관리 접근법입니다. 2001년 발표된 애자일 선언문(Agile Manifesto)에 기초하여, 빠르게 변화하는 요구사항에 유연하게 대처하고, 짧은 주기로 제품을 개발 및 배포하는 것을 목표로 합니다.
